@@ -1,0 +1,3 @@
+C:/Users/igorc/OneDrive/Documentos/C++/fundamentals_and_practice/Scope/cmake-build-debug/CMakeFiles/Scope.dir
+C:/Users/igorc/OneDrive/Documentos/C++/fundamentals_and_practice/Scope/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/igorc/OneDrive/Documentos/C++/fundamentals_and_practice/Scope/cmake-build-debug/CMakeFiles/rebuild_cache.dir
